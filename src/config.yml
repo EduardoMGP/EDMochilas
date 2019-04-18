@@ -1,0 +1,67 @@
+Conexao:
+    Host: 'localhost'
+    Porta: 3306
+    DataBase: 'ServerDB_11'
+    Usuario: 'ServerDB_11'
+    Senha: 'dc14d20c1a'
+
+prefixo: '&3[EDMochilas] '
+naoPossuiEstaMochila: '&cDesculpe, você nao possui esta mochila'
+ganhouMochila: '&bVoce recebeu %q% mochilas'
+mochilaNome: '&0EDMochila - &f'
+idMochilaSemComprar: '54:0'
+idMochilaSemComprarLoja: '329:0'
+idMochilaSemComprarVip: '328:0'
+idMochilaComprado: '138:0'
+nomeMochilaSemComprar: '&b&l - Mochila - '
+nomeMochilaSemComprarLoja: '&bCompre esta mochila em nosso site'
+nomeMochilaVip: '&bMochila exclusiva para vips'
+mochilaComprada: '&bVoce comprou esta mochila por &f&oR$%preco%'
+semDinheiro: '&bDinheiro insuficiente para comprar esta mochila, é necessario &f&oR$%preco%'
+apenasVips: '&cApeenas jogadores vips podem comprar esta mochila'
+mochilaPreco: 50000.0
+mochilaVipPreco: 20000.0
+mochilaVenda: 3
+mochilasVip: 3
+mochilaVendaLoja: 48
+loreMochilaVenda:
+    - ''
+    - '    &b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-    '
+    - ''
+    - '    &b&oCompre esta mochila por &f&oR$%preco%    '
+    - '    &b&opara poder utiliza-la    '
+    - ''
+    - '    &6Para comprar clique com SHIFT + Botao ESQUERDO do mouse    '
+    - ''
+    - '    &b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-    '
+    - ''
+    
+loreMochilasVip:
+    - ''
+    - '    &b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-    '
+    - ''
+    - '    &6Esta mochila é exclusiva para jogadores vips    '
+    - ''
+    - '    &b&oCompre esta mochila por &f&oR$%preco%    '
+    - '    &b&opara poder utiliza-la e liberar    '
+    - '    &b&omais espaço em seu inventario    '
+    - ''
+    - '    &6Para comprar clique com SHIFT + Botao ESQUERDO do mouse    '
+    - ''
+    - '    &b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-    '
+    - ''
+
+loreMochilaVendaLoja:
+    - ''
+    - '    &b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-    '
+    - ''
+    - '    &6Esta mochila é adquirida em nosso site    '
+    - ''
+    - '    &b&oCompre esta mochila em nosso site    '
+    - '    &b&opara poder utiliza-la e liberar    '
+    - '    &b&omais espaço em seu inventario    '
+    - ''
+    - '    &f&ohttp://techcraftbrasil.com.br    '
+    - ''   
+    - '    &b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-&6*&b-    '
+    - ''

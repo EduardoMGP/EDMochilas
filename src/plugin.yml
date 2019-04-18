@@ -1,0 +1,7 @@
+name: EDMochilas
+version: 1.0
+author: EduardoMGP
+main: edmochilas.EDMochilas
+commands:
+    mochila:
+    teste:
